@@ -1,2 +1,3 @@
 # projetoBixos-ADA
-Desenvolviment de uma SEBIX como projeto de bixos da extracurricular ADA
+
+Desenvolvimento de uma SEBIX como projeto de bixos da extracurricular ADA
